@@ -1,6 +1,6 @@
 ## Welcome to our EA Tracked Vehicle Project 
 <body>
-  <strong> Group members : Faaris, Ashwin, Joshua ,TP </strong>
+  <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
