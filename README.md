@@ -2,8 +2,8 @@
 <body>
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
-![Image of Yaktocat](https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20180511_10_34_11_Pro%20(2).jpg)
-()
+![Image of Faaris](https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20180511_10_34_11_Pro%20(2).jpg)
+![Image of Harriman](https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20191021_20_09_44_Pro.jpg)
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
