@@ -2,6 +2,10 @@
 <body>
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
+<body>
+      <img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
+         height="80">
+</body>
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
