@@ -2,9 +2,9 @@
 <body>
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
-![Image of Yaktocat](Kim_Jong-un_IKS_2018.jpg width="400")
+![Image of Yaktocat](Kim_Jong-un_IKS_2018.jpg width="400"/)
 
-![Image of Yaktocat](WIN_20180511_10_34_11_Pro (2).jpg width="400")
+![Image of Yaktocat](WIN_20180511_10_34_11_Pro (2).jpg width="400"/)
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
