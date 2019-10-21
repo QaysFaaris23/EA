@@ -4,8 +4,9 @@
 </body>
 ![](images/https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20180511_10_34_11_Pro%20(2).jpg width="400" /)
 ![](images/src=https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20191021_20_09_44_Pro.jpg width="400" /)
+<body>
 <img src=https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Kim_Jong-un_IKS_2018.jpg width="400" />
-
+</body>
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
