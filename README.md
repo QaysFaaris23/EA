@@ -2,10 +2,7 @@
 <body>
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
-<body>
-      <img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
-         height="80">
-</body>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
