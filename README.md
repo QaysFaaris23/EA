@@ -2,7 +2,7 @@
 <body>
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
-![Image of Yaktocat](https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Kim_Jong-un_IKS_2018.jpg)
+![Image of Yaktocat](Kim_Jong-un_IKS_2018.jpg)
 
 ![Image of Yaktocat](https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Kim_Jong-un_IKS_2018.jpg width="100"/)
 
