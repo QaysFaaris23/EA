@@ -6,7 +6,7 @@
 
 ![Image of Gangsta](WIN_20180511_10_34_11_Pro (2).jpg)
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src=WIN_20191021_20_09_44_Pro.jpg>
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
