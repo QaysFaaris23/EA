@@ -3,9 +3,9 @@
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
 
-<img align="left" width="300" height="300" src=Kim_Jong-un_IKS_2018.jpg>
-<img align="left" width="300" height="300" src=WIN_20180511_10_34_11_Pro (2).jpg>
-<img align="left" width="300" height="300" src=WIN_20191021_20_09_44_Pro.jpg>
+![Image of Kim Jong UN](Kim_Jong-un_IKS_2018.jpg | width=48)
+
+![Image of Gangsta](WIN_20180511_10_34_11_Pro (2).jpg)
 
 You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
