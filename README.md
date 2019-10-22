@@ -3,7 +3,7 @@
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
 
-![Image of Kim Jong UN](Kim_Jong-un_IKS_2018.jpg | width=48)
+![Image of Kim Jong UN](Kim_Jong-un_IKS_2018.jpg)
 
 ![Image of Gangsta](WIN_20180511_10_34_11_Pro (2).jpg)
 
