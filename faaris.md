@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20191106_22_02_05_Pro%20(2).jpg" width ="300">
 
 Hi welcome to my weekly journal
 # Week 1
