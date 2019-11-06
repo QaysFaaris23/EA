@@ -3,7 +3,8 @@
 <img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20191106_22_02_05_Pro%20(2).jpg" width ="300">
 
 Firstly, i would like to explain how i made this blog. I used thid website called Dilinger,which uses markdown and i was able to see in realtime how my edits affected the changes in the blog.This website has the ability to link to one of your Github repositories and thus it was convenient as it saved directly to that repository.
-<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Screenshot_of_Dilinger_Website.PNG" width ="500">
+
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Screenshot_of_Dilinger_Website.PNG" width ="1000">
 
 Hi welcome to my weekly journal
 # Week 1
