@@ -8,6 +8,7 @@ Hi welcome to my weekly journal
 # Week 1
 
 ### Briefing
+im gay as fk
 
 # Week 2 
 
