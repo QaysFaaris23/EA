@@ -3,6 +3,10 @@
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
 
+### About Blog
+
+We used [dilinger.io](https://dillinger.io/), which is a markdown editor and previewer to design and organise our blog.
+
 ### Chassis
 
 We aquired the [tank tracks](https://www.aliexpress.com/item/32894272875.html?spm=a2g0o.productlist.0.0.d3cb19bd9sfepC&algo_pvid=d9c07dbd-8843-46c1-b17d-9126fe397c92&algo_expid=d9c07dbd-8843-46c1-b17d-9126fe397c92-7&btsid=cbdd70e1-9060-4310-8902-0427e99a4df9&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_55) from aliexpress. The first step is to assemble the parts which we referred from .......During the assembly we realised that the tank tracks were loose and it needed to be tightened so that th tracks dont misallign. So we decided to reduce the number of tracks.
