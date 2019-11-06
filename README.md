@@ -3,14 +3,9 @@
   <b> Group members : Faaris, Ashwin, Joshua ,TP </b>
 </body>
 
-![Image of Kim Jong UN](Kim_Jong-un_IKS_2018.jpg)
+# Chassis
 
-![Image of Gangsta](WIN_20180511_10_34_11_Pro (2).jpg)
-
-You can use the [editor on GitHub](https://github.com/QaysFaaris23/EA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We aquired the [tank tracks](https://www.aliexpress.com/item/32894272875.html?spm=a2g0o.productlist.0.0.d3cb19bd9sfepC&algo_pvid=d9c07dbd-8843-46c1-b17d-9126fe397c92&algo_expid=d9c07dbd-8843-46c1-b17d-9126fe397c92-7&btsid=cbdd70e1-9060-4310-8902-0427e99a4df9&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_55) from alieexpress.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
