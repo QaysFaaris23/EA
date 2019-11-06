@@ -1,6 +1,4 @@
-# Dillinger
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+# QAYS FAARIS's JOURNAL
 
 <img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/WIN_20191106_22_02_05_Pro%20(2).jpg" width ="300">
 
@@ -213,4 +211,5 @@ MIT
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
