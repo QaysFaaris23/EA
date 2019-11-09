@@ -30,7 +30,7 @@ Next enter the following in the command prompt and it should look like this
 ```sh
 esptool.py --chip esp32 -p <USB-to-Serial Port> write_flash -z 0x1000 <path to .bin>
 ```
-Next, flash the firmware with the following command (replace <USB-to-Serial Port> with your particular port name, and replace <path to .bin> with the location of your downloaded firmware file, such as ~/Downloads/esp32-20180822-v1.9.4-479-g828f771e3.bin):
+Flash the firmware with the following command (replace <USB-to-Serial Port> with your particular port name, and replace <path to .bin> with the location of your downloaded firmware file, such as ~/Downloads/esp32-20180822-v1.9.4-479-g828f771e3.bin):
 <img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/FaarisJOurnals/third%20cm%20pic.PNG" width ="700">
 
 
