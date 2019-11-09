@@ -9,7 +9,7 @@ Launch your command prompt on windows and enter the following
 ```sh
 pip install --upgrade esptool
 ```
-<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/FaarisJOurnals/first%20cm%20pic.PNG" width ="300">
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/FaarisJOurnals/first%20cm%20pic.PNG" width ="700">
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
   - Drag and drop markdown and HTML files into Dillinger
