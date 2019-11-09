@@ -1,21 +1,15 @@
-# Dillinger
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-# New Features!
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
-
+# ESP32 Tutorial
+How to install python on your ESP32 ?
+Before we start make sure that you have the latest version of python installed on your computer.Here is a [link](https://www.python.org/downloads/) to install 
+### Step 1
+Download the Latest MicroPython Firmware
+In this [link](https://micropython.org/download/#esp32), search for "esp32-idf3-20191109-v1.11-571-g7e374d231.bin", click and then download
+### Step 2
+Launch your command prompt on windows and enter the following 
+```sh
+pip install --upgrade esptool
+```
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/FaarisJOurnals/first%20cm%20pic.PNG" width ="300">
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
   - Drag and drop markdown and HTML files into Dillinger
