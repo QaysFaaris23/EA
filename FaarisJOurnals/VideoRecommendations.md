@@ -9,4 +9,4 @@ However, in the context of Engineering Academy where we will mostly be playing w
 ### "Thonny - a Python IDE for beginners"
 ### https://youtu.be/lWaCl0WjNZI
 The reason i liked this video a lot because it taught me the useful features thonny had, with examples given by the youtuber. One such example is that thonny have this amazing feature called "debug current script", which shows the user the steps taken by the computer when running the codes.I cant explain this feature that well, so you will need to refer to the video.This feature is especially useful because it can help users find out exactly where their errors are at, and why is it so in the shoes of the computer.This video swiftly guides users all the important features, and that is why I was able to learn a lot.
-The next video is
+Another video would be https://youtu.be/nwIgxrXP-X4. It is a shorter and even simplified version of the functions and features of thonny ide. This video is simple to understand as examples are demonstrated by the youtuber. If you are looking to have a quick run through with less explanation then this is the right video for you.
