@@ -8,7 +8,7 @@ However, in the context of Engineering Academy where we will mostly be playing w
 # Two videos i recommend on Thonny IDE
 ### "Thonny - a Python IDE for beginners"
 ### https://youtu.be/lWaCl0WjNZI
-
+The reason i liked this video a lot because it taught me the useful features thonny had, with examples given by the youtuber. One such example is that thonny have this amazing feature called "step over", which shows the user the steps taken by the computer when running the codes.I cant explain this feature that well, so you will need to refer to the video.This feature is especially useful because it can help users find out exactly where their errors are at, and why is it so in the shoes of the computer.This video swiftly guides users all the important features, and that is why I was able to learn a lot.
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
 
