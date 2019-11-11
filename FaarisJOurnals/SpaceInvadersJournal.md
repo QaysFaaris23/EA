@@ -7,12 +7,8 @@ Firstly, i would like to explain how i made this blog. I used thid website calle
 <img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/Screenshot_of_Dilinger_Website.PNG" width ="1000">
 
 Hi welcome to my weekly journal
+
 # Week 1
-
-### Briefing
-im gay as fk
-
-# Week 2 
 
 ### Space Invaders
  After some tests i finally managed to make a sort of functional code.Here is the code:
