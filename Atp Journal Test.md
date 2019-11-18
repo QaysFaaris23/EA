@@ -10,18 +10,23 @@ Welcome to my weekly Journal for engineering realisation
 > ### Week 2
 Assembly of Actual vehicle chassis and Markdown
 
+
 > ### Week 3
 Designing 3D model
+
 To start the design of the vehicle , I have started to replicate the chassis in Autodesk Inventor 2016
+
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/inventor%20logo.PNG" width ="150">
 <p>&nbsp;</p>
 The main challenges of this were mostly caused by getting inaccurate measurements of the assembled Chassis for the model
 
+
 <p>&nbsp;</p>
 
-<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Chasis%201.png" width ="500">
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Chasis%201.png" width ="400"><img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Chasis%204.PNG" width ="400">
 
 
-#### The first piece of the tank chassis  
+#### The main pieces of the tank chassis
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -52,3 +57,8 @@ With the 3D model done , it was time to make a completed assembly where we could
 #### Starting the Assembly
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Assembly%202.png" Width ="350"><img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Assembly%204.png" Width ="350">
+#### The completed assembly
+<p>&nbsp;</p>
+With the assembly now completed , it was time for our team to start designing our platform
