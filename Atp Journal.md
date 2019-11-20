@@ -5,7 +5,12 @@
 
 Welcome to my weekly Journal for engineering realisation
 > ### Week 1
+Creating the Weekly Journal
+<p>&nbsp;</p>
+To create the journal I used a text editor with a Markdown preview , ATOM
+<p>&nbsp;</p>
 
+<img src="https://github.com/QaysFaaris23/The-Engineering-Academy/blob/master/TP%20journal%20Pictures/Atom.PNG" width ="150">
 
 > ### Week 2
 Assembly of Actual vehicle chassis and Markdown
