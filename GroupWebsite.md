@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   
 # Welcome to our EA Tracked Vehicle Project 
