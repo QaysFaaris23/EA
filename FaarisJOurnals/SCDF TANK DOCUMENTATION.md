@@ -4,9 +4,10 @@ Basically as the head mechanical designer i am tasked to do everything about the
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform2.PNG" width ="300">
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform3.PNG" width ="300">
 
-
-
+I used a partial V shaped slider to secure both platforms into one rigid object, and secured them to the chassis of the tank with M10 screw and nut
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform5.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform6.PNG" width ="300">
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform4.PNG" width ="300">
+
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
