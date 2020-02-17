@@ -1,11 +1,6 @@
 # MY COMMITMENTS TO THE SCDF TRACKED VEHICLE
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Basically as the head mechanical designer i am tasked to do everything about the chassis 
-
+Basically as the head mechanical designer i am tasked to do everything about the chassis and moving parts. To begin, i first designed the main platform to mount the turret and the engine compartment.I split this platform into two, one to hold the main "engine compartment" which houses the electronics and the other to hold the turret. I ensures that they are in seperate compartments so that any water leakage from the nozzle on the turret wont spill into the electronics compartment. See the photo below
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform1.PNG" width ="300">
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
