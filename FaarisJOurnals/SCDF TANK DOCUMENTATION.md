@@ -16,9 +16,10 @@ Next i move on the "engine compartment". I designed rather large compartment to 
 Much like the main platforms, i also used a V shaped slider to secure my engine compartment and the platform, and with an additional 5.8 diameter bolt and nut to further secure it to ensure its rigidity
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment3.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineComaprtment4.PNG" width ="300">
-<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment5.PNG" width ="300">
+
 As for the lid its tight fit
 
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment5.PNG" width ="300">
 
 # New Features!
 
