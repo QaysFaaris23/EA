@@ -16,6 +16,7 @@ Next i move on the "engine compartment". I designed rather large compartment to 
 Much like the main platforms, i also used a V shaped slider to secure my engine compartment and the platform, and with an additional 5.8 diameter bolt and nut to further secure it to ensure its rigidity
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment3.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment4.PNG" width ="300">
+
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
