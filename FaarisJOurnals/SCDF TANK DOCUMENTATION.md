@@ -24,6 +24,10 @@ As for the lid its tight fit
 Next ill shall move on to the turret. A servo rest inside the turret platform, and the turret ring is secured to the servo with a screw which holds the turret ring between the head of the screw and the servo. Do note theres a thread inside inside the servo head which can be screwed into
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret2.PNG" width ="300">
+
+Next the z axis servo holder is placed into one of the turret ring's pin slot. I added a small out facing pillar so that the servo holder does not fall right through the pin slot
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret3.PNG" width ="300"><img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret4.PNG" width ="300">
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
