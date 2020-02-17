@@ -31,7 +31,7 @@ Next the z axis servo holder is placed into one of the turret ring's pin slot. I
 
 Next i we insert the servo, followed by the modular mount and screw to secure them together
 
-<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret5.PNG" width ="300">https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret6.PNG
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret5.PNG" width ="300"><img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret6.PNG" width ="300">
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
