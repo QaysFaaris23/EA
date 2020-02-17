@@ -40,3 +40,8 @@ The modular mount has two V shaped slider to mount multiples types of accessorie
 Notice the V shape slider
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret9.PNG" width ="300">
+
+
+Having my own 3D printer at home, i needed to check for the dimensional tolerances of my prints.Therefore i printed sectioned parts of the actual print for testing. I found out that my printer would need an offset of 0.2mm for a nice fitting between a pair of sliders.Here are some of the test prints
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/TestPrint1.jfif" width ="300">
