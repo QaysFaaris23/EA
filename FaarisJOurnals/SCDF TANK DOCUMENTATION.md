@@ -32,6 +32,14 @@ Next the z axis servo holder is placed into one of the turret ring's pin slot. I
 Next i we insert the servo, followed by the modular mount and screw to secure them together
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret5.PNG" width ="300"><img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret6.PNG" width ="300">
+
+The modular mount has two V shaped slider to mount multiples types of accessories.That would be the fpv camera or the nozzle for the water spray. If there are any other mods we want to put we just need to design a V shaped mount on it. See the photos
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret7.PNG" width ="300"><img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret8.PNG" width ="300">
+
+Notice the V shape slider
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret9.PNG" width ="300">
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
