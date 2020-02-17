@@ -9,10 +9,13 @@ I used a partial V shaped slider to secure both platforms into one rigid object,
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform4.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform3.PNG" width ="300">
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+Next i move on the "engine compartment". I designed rather large compartment to easily store the electronics component, which is easily accesible with a sliding lid on top. See the photos below
 
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment2.PNG" width ="300">
+
+Much like the main platforms, i also used a V shaped slider to secure my engine compartment and the platform, and with an additional 5.8 diameter bolt and nut to further secure it to ensure its rigidity
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment3.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment4.PNG" width ="300">
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
