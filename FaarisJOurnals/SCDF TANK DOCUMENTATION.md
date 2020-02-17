@@ -1,5 +1,5 @@
 # MY COMMITMENTS TO THE SCDF TRACKED VEHICLE
-Basically as the head mechanical designer i am tasked to do everything about the chassis and moving parts. To begin, i first designed the main platform to mount the turret and the engine compartment.I split this platform into two, one to hold the main "engine compartment" which houses the electronics and the other to hold the turret. I ensures that they are in seperate compartments so that any water leakage from the nozzle on the turret wont spill into the electronics compartment. See the photo below
+Basically as the head mechanical designer i am tasked to do everything about the chassis and moving parts. To begin, i first designed the main platform to mount the turret and the engine compartment.I split this platform into two, engine platform to hold the "engine compartment" which houses the electronics and turret platform to hold the turret. I ensures that they are in seperate compartments so that any water leakage from the nozzle on the turret wont spill into the electronics compartment. See the photo below
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform2.PNG" width ="300">
 
@@ -13,7 +13,7 @@ Next i move on the "engine compartment". I designed rather large compartment to 
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment2.PNG" width ="300">
 
-Much like the main platforms, i also used a V shaped slider to secure my engine compartment and the platform, and with an additional 5.8 diameter bolt and nut to further secure it to ensure its rigidity
+Much like the engine platform, i also used a V shaped slider to secure my engine compartment and the platform, and with an additional 5.8 diameter bolt and nut to further secure it to ensure its rigidity
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment3.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineComaprtment4.PNG" width ="300">
 
@@ -21,6 +21,9 @@ As for the lid its tight fit
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EngineCompartment5.PNG" width ="300">
 
+Next ill shall move on to the turret. A servo rest inside the turret platform, and the turret ring is secured to the servo with a screw which holds the turret ring between the head of the screw and the servo. Do note theres a thread inside inside the servo head which can be screwed into
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/Turret2.PNG" width ="300">
 # New Features!
 
   - Import a HTML file and watch it magically convert to Markdown
