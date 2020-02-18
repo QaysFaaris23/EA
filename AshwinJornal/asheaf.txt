@@ -1,0 +1,49 @@
+import machine
+from machine import Pin, ADC, PWM
+import math
+import time
+
+AIN1 = Pin(15,Pin.OUT)
+AIN2 = Pin(2,Pin.OUT)
+BIN1 = Pin(0,Pin.OUT)
+BIN2 = Pin(4,Pin.OUT)
+
+PWMPinA = PWM(Pin(16), freq = 980)
+PWMPinB = PWM(Pin(17), freq = 980)
+
+
+def ModeStop():
+    AIN1.off()
+    AIN2.off()
+    BIN1.off()
+    BIN2.off()
+    
+def ModeForward():
+    AIN1.on()
+    AIN2.off()
+    BIN1.on()
+    BIN2.off()
+    
+def ModeBackward():
+    AIN1.off()
+    AIN2.on()
+    BIN1.off()
+    BIN2.on()
+    
+def ModeRight():
+    AIN1.on()
+    AIN2.off()
+    BIN1.off()
+    BIN2.on()
+    
+def ModeLeft():
+    AIN1.off()
+    AIN2.on()
+    BIN1.on()
+    BIN2.off()
+    
+    
+while True:
+        ModeLeft()
+        time.sleep_ms(100)
+         

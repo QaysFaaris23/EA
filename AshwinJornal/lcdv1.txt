@@ -1,0 +1,20 @@
+from machine import I2C, Pin
+import mp_i2c_lcd1602
+import time
+
+#initialise I2C
+i2c = I2C(1,scl=Pin(5),sda=Pin(4),freq=40000)
+l = mp_i2c_lcd1602.LCD1602(i2c)
+
+l.puts('hello')
+l.clear()
+l.puts('BAT level:')
+count = 'stop'
+while True:
+    l.puts(str(count), 0, 1)
+    time.sleep_ms(2000)
+    count = 'FORWARDS'
+    time.sleep_ms(2000)
+    count = 'BACKWARDS :)'
+    
+    
