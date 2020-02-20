@@ -100,7 +100,8 @@ Fa = 3.24 lbs x 0.263 ft/s / (32.2 ft/s2 x 1 s) = 0.0265lb (0.12N)
 
 ##### Step Four: Determine Total Tractive Effort 
 The Total Tractive Effort (TTE) is the sum of the forces calculated in steps 1, 2, and 3. (On higher speed vehicles friction in drive components may warrant the addition of 10%-15% to the total tractive effort to ensure acceptable vehicle performance.) 
-TTE [lb] = RR [lb] + GR [lb] + FA [lb] 
+TTE [lb] = RR [lb] + GR [lb] + FA [lb]
+
  TTE = 0.0486lbs (0.22N) + 2.29 lb (10.19N) + 0.0265lb (0.12N) = 2.365lb(10.53N)
  
  ##### Step Five: Determine Wheel Motor Torque 
