@@ -51,4 +51,4 @@ Having my own 3D printer at home, i needed to check for the dimensional toleranc
 ### Motor calculations
 
 
-<embed src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EML2322L%20Drive%20Wheel%20Motor%20Torque%20Calculations.pdf" type="application/pdf" />
+<embed src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EML2322L%20Drive%20Wheel%20Motor%20Torque%20Calculations.pdf" />
