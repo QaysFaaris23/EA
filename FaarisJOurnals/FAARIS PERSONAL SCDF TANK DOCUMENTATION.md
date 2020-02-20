@@ -1,4 +1,6 @@
 # MY COMMITMENTS TO THE SCDF TRACKED VEHICLE
+
+### About vehicle
 Basically as the head mechanical designer i am tasked to do everything about the chassis and moving parts. To begin, i first designed the main platform to mount the turret and the engine compartment.I split this platform into two, engine platform to hold the "engine compartment" which houses the electronics and turret platform to hold the turret. I ensures that they are in seperate compartments so that any water leakage from the nozzle on the turret wont spill into the electronics compartment. See the photo below
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform1.PNG" width ="300"> <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/MainPlatform2.PNG" width ="300">
@@ -45,3 +47,8 @@ Notice the V shape slider
 Having my own 3D printer at home, i needed to check for the dimensional tolerances of my prints.Therefore i printed sectioned parts of the actual print for testing. I found out that my printer would need an offset of 0.2mm for a nice fitting between a pair of sliders.Here are some of the test prints
 
 <img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/TestPrint1.jfif" width ="300">
+
+### Motor calculations
+
+<img src="https://github.com/QaysFaaris23/ScdfVehicle/blob/master/FaarisJOurnals/EML2322L%20Drive%20Wheel%20Motor%20Torque%20Calculations.pdf" width ="300">
+
